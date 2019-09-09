@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config-element id="be70afd5-5a3d-4c90-8707-59875fca371c" version="0.0.0">
+  <display-name><![CDATA[FolderConfigurations]]></display-name>
+  <atts>
+    <att name="count" type="number" read-only="false">
+      <value encoded="n"><![CDATA[8.0]]></value>
+      <description><![CDATA[Number of subfolder]]></description>
+    </att>
+    <att name="prefix" type="string" read-only="false">
+      <value encoded="n"><![CDATA[Wol]]></value>
+      <description><![CDATA[Subfolder Prefix]]></description>
+    </att>
+    <att name="suffix" type="string" read-only="false">
+      <value encoded="n"><![CDATA[n]]></value>
+      <description><![CDATA[Subfolder Suffix]]></description>
+    </att>
+  </atts>
+</config-element>
